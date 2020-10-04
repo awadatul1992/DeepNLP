@@ -4,3 +4,9 @@ input text is processed using Natural Language Toolkit(NLTK) library and differe
 We started with naive methods of representing input text to numbers like BOW, TF-IDF, Frequency counts.
 However to make the predicting models better we used Embeddings which we created from the scratch as well as used already existing open sourced embeddings available.
 We have alo created a few Natual Language generation models also where in either individual characters are generated per step or complete word is generated.
+Order you can follow to learn:
+1) DeepNLP_1.ipynb
+2) DeepNLP_Embeddings.ipynb
+3) DeepNLP-Chararcted based Neural Language Model.ipynb
+4) DeepNLP_Word_Based_Neural_Language_Model.ipynb
+5) DeepNLP_LargeText_Generation.ipynb
